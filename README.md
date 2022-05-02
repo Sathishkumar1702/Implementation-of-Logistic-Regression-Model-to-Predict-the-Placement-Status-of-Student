@@ -66,17 +66,17 @@ print(confusion)
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%201.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%202.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%203.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%204.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%205.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%206.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%207.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%208.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%209.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%2010.png.png)
-![the Logistic Regression Model to Predict the Placement Status of Student](/O%2011.png.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%201.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%202.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%203.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%204.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%205.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%206.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%207.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%208.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%209.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%2010.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](/O%2011.png)
 
 
 
